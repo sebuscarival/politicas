@@ -37,7 +37,7 @@ La información recolectada se utiliza con el fin único de:
 ### 6. Derechos del Usuario y Eliminación de Datos
 Todo usuario tiene derecho al acceso, rectificación y cancelación de sus datos. Puede solicitar la eliminación total de su cuenta y registros asociados:
 1. Desde el menú de **Configuración** dentro de la app.
-2. Enviando un correo electrónico a: **[dantelagos077@gmail.com]**
+2. Enviando un correo electrónico a: **soporte.sebuscarival@gmail.com**
 
 ---
 **JUEGA • GANA • REPITE**
