@@ -1,8 +1,8 @@
 # Políticas de Privacidad y Términos de Servicio - #SEBUSCARIVAL
 
-**Última actualización: 17 de marzo de 2026**
+**Última actualización: 21 de marzo de 2026**
 
-Bienvenido a **sebuscarival**. Al utilizar nuestra aplicación, usted acepta cumplir con los siguientes términos y condiciones. Lea atentamente esta información antes de completar su registro.
+Bienvenido a **#SEBUSCARIVAL**. Al utilizar nuestra aplicación, usted acepta cumplir con los siguientes términos y condiciones. Lea atentamente esta información antes de completar su registro.
 
 ---
 
