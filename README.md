@@ -1,6 +1,6 @@
 # Políticas de Privacidad y Términos de Servicio - #SEBUSCARIVAL
 
-**Última actualización: 21 de marzo de 2026**
+**Última actualización: 12 de abril de 2026**
 
 Bienvenido a **#SEBUSCARIVAL**. Al utilizar nuestra aplicación, usted acepta cumplir con los siguientes términos y condiciones. Lea atentamente esta información antes de completar su registro.
 
@@ -14,12 +14,13 @@ Bienvenido a **#SEBUSCARIVAL**. Al utilizar nuestra aplicación, usted acepta cu
 Para garantizar el funcionamiento de la comunidad deportiva, recolectamos:
 * **Identidad:** Nombre de usuario y correo electrónico.
 * **Perfil:** Foto de perfil (opcional) para facilitar el reconocimiento entre jugadores.
-* **Ubicación Dinámica:** Recolectamos datos de geolocalización para mostrarle rivales, canchas y eventos deportivos cercanos a su posición actual.
+* **Ubicación Declarada:** El usuario selecciona manualmente su comuna de residencia/interés. La aplicación no rastrea su posición GPS en tiempo real ni utiliza ubicación dinámica en segundo plano.
 
 ### 3. Uso de la Información
-La información recolectada se utiliza con el fin único de:
-* Facilitar el contacto entre jugadores de fútbol, pádel, gimnasio y trekking.
+La información recolectada se utiliza mediante la infraestructura de Google Firebase con el fin de:
+* Facilitar el contacto entre jugadores de fútbol, pádel, gimnasio y trekking, basados en la comuna seleccionada por el usuario.
 * Verificar la seguridad de la comunidad y prevenir suplantaciones de identidad.
+* Enviar notificaciones críticas sobre el estado de sus salas o desafíos.
 * Gestionar el sistema de niveles y reputación deportiva del usuario.
 
 ### 4. Contenido Generado por el Usuario (UGC)
